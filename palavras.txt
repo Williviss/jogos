@@ -2,3 +2,9 @@ banana
 melancia
 morango
 maça
+pera
+uva
+laranja
+manga
+amora
+mamao
