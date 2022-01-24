@@ -8,3 +8,7 @@ laranja
 manga
 amora
 mamao
+kiwi
+cereja
+coco
+tangerina
